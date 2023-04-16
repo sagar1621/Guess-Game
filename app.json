@@ -4,9 +4,9 @@
     "slug": "Guess-Game",
     "version": "1.0.0",
     "orientation": "default",
-    "icon": "./assets/icons.png",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/icons.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
